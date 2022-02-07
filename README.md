@@ -1,4 +1,4 @@
-# Learning C++
+# Resources for Learning C++
 
 ### Some Context and Resource Links
 
