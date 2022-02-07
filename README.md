@@ -26,18 +26,16 @@ If you are coming from primarily writing JavaScript you already know more C++ sy
 
 The following external resources might provide you with all the basic introduction you need. After you get the basic syntax down in any new language a great next step is simply to start doing easy leetcode problems that you're very comfortable with and checking the leetcode discussion section to get exposed to new syntax alternatives and patterns. After this finding code along mini-projects on youtube etc can be a fun way to deepen your experience, especially with a non-web-oriented language like C++ where the common uses may not be immediately apparent.
 
-### Getting Set Up and Learning the Basics
+### 1. Getting Set Up
 
-[youtube 1](https://www.youtube.com/watch?v=lPd13fsU-CQ) | 
-[youtube 2](https://www.youtube.com/watch?v=ckbfOdMhZls) | 
-[youtube 3](https://www.youtube.com/watch?v=zgutFVxOlTY)
+[youtube compiling C++ and set-up basics](https://www.youtube.com/watch?v=lPd13fsU-CQ)
 
 [more from same channel if desired](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3)
 
-### More Full Scope Syntax Inroduction
+### 2. Syntax Overview
 
-[w3chools tutorial](https://www.w3schools.com/cpp/default.asp)
+[w3chools C++ basics tutorial](https://www.w3schools.com/cpp/default.asp)
 
-### Fun Applied Projects and Code Alongs
+### 3. Code-Along Projects
 
-[youtube codealongs collection](https://www.youtube.com/playlist?list=PLrOv9FMX8xJE8NgepZR1etrsU63fDDGxO)
+[youtube code-along C++ projects](https://www.youtube.com/playlist?list=PLrOv9FMX8xJE8NgepZR1etrsU63fDDGxO)
