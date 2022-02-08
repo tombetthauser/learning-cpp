@@ -58,7 +58,12 @@ The following external resources are intended provide you with all the basic int
 
 ### 1. Getting Set Up
 
-[youtube compiling C++ and set-up basics](https://www.youtube.com/watch?v=lPd13fsU-CQ) | 
+[youtube C++ basics 1 - setup / compiling](https://www.youtube.com/watch?v=lPd13fsU-CQ)
+  
+[youtube C++ basics 1](https://www.youtube.com/watch?v=ckbfOdMhZls)
+
+[youtube C++ basics 1 - variables / types](https://www.youtube.com/watch?v=zgutFVxOlTY)
+  
 [more from same channel if desired](https://www.youtube.com/playlist?list=PLzMcBGfZo4-lmGC8VW0iu6qfMHjy7gLQ3)
 
 ### 2. Syntax Overview
