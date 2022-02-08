@@ -10,7 +10,7 @@
 
 ### Some Context and Resource Links
 
-If you are coming from primarily writing JavaScript you already know more C++ syntax than you might realize. It can be a great language to pick up not only because so many resources use it for code examples (ie Cracking the Coding Interview) but also because it will expose you to a compiled language, expose you to using types, give you experience in a language not connected directly to web development and also because if you have some experience with JavaScript you already know more C++ syntax than you might realize.
+If you are coming from primarily writing JavaScript you already know more C++ syntax than you might realize. It can be a great language to pick up not only because so many resources use it for code examples (ie Cracking the Coding Interview) but also because it will expose you to a compiled language, using types and give you experience in a language not connected directly to web development.
 
 [skip straight to resource links](#links)
 
@@ -22,15 +22,15 @@ A lot of C++ syntax looks and feels very similar to JavaScript. For loops, while
 
 For broader context the syntactic similarities between JavaScript and C++ go back even further to the C language (Dennis Ritchie / Bell Labs, 1972) which was built as a follow-up to the B language (Ken Thompson and Dennis Ritchie / Bell Labs, 1969) which took influence from BCPL, Basic Combined Programming Language (Martin Richards / University of Cambridge, 1967). BCPL is essentially where the JavaScript syntactic similarities end as it is commonly recognised to be the oldest programming language to use curly braces to denote code blocks. Prior to this keyboards did not even have curly brackets. 
 
-Whether or not all that is of interest to the average JavaScript programmer interested in C++ it does mean the lineage of some of JavaScript's most defining syntax and patterns go back over half a century!
+All of that may not be of interest to the average JavaScript programmer picking up C++, but it does mean the lineage of some of JavaScript's most defining syntax and patterns go back over half a century!
 
 --- 
 
 ### Compiled Language
 
-Somewhat confusingly compiled languages like C++ have one enourmous differences from interpreted languages like JavaScript, they need to be compiled before you can run the code and see what it's behavior is. This means that we have to explicitly run the C++ code we write through a compiler in the command line before executing the file that gets created by this compiling process. 
+Somewhat confusingly compiled languages like C++ have one enourmous differences from interpreted languages like JavaScript, they need to be compiled before you can run the code and see what it's behavior is. This means that we have to explicitly run the C++ code we write through a compiler in the command prompt (essentially turning it into raw machine code) before executing the file that gets created by this compiling process. 
 
-This is much simpler than it can sound the first time you encounter a compiled language. You can still work in Visual Studio Code and it only takes a few seconds to compile your code. One benefit to working with a compiled language is that you will be able to get warnings and errors from the compiler when you compile the code before actually running it.
+This is much simpler than it can sound the first time you encounter a compiled language. You can still work in Visual Studio Code and it only takes a few seconds to compile your code. One benefit to working with a compiled language is that you will be able to get warnings and errors from the compiler when you compile the code before actually running it. Additionally the compiled version of your code is much more compact and effecient than the original syntax you write. Conceptually it's a lot like using a JavaScript minifier.
 
 ---
 
@@ -42,9 +42,11 @@ Typed languages like C++ are different from languages like JavaScript because th
 
 ### Career Path
 
-One extra note about learning languages like C++, Java, C etc is that they are generally associated with a software engineering career path that is further away from the web and "closer to the metal" or closer to the hardware that houses and executes the code you write and further away from the end user in many cases. This isn't necessarily better or worse than a career path that stays closer to the web, but it is a part of the industry that experiences fewer changes than web-development and therefore is often associated with long-term career stability. With that said it is also often viewed as a less interesting career path for the same reasons. 
+One extra note about learning languages like C++, Java, C etc is that they are generally associated with a software engineering career path that is further away from the web and "closer to the metal" or closer to the hardware that houses and executes the code you write. Additionally these languages can be associated with a greater distance between the programmer and the end user / user experience. 
 
-Regardless learning one of these languages is a great way to diversify your resume and portfolio for those of us that learned software engineering via web-oriented languages and frameworks.
+This isn't necessarily better or worse than a career path that stays closer to the web, but it is a part of the industry that experiences fewer changes than web-development and therefore is often associated with long-term career stability. Programmers that primarily work in a language like C++ may end up using largely the same syntax and patterns for huge portions of their careers. With all this said these languages are also often viewed as being associated with less interesting career paths for essentially the same reasons. 
+
+Regardless, learning a language like C++ is a great way to diversify a resume and portfolio for those of us that learned software engineering via web-oriented languages and frameworks.
 
 ---
 
@@ -52,7 +54,7 @@ Regardless learning one of these languages is a great way to diversify your resu
   
 ## Resources
 
-The following external resources might provide you with all the basic introduction you need. After you get the basic syntax down in any new language a great next step is simply to start doing easy leetcode problems that you're very comfortable with and checking the leetcode discussion section to get exposed to new syntax alternatives and patterns. After this finding code along mini-projects on youtube etc can be a fun way to deepen your experience, especially with a non-web-oriented language like C++ where the common uses may not be immediately apparent.
+The following external resources are intended provide you with all the basic introduction you need to C++. After you get the basic syntax down in any new language a great next step is simply to start doing easy leetcode problems that you feel comfortable with and checking the leetcode discussion section to get exposed to new syntax alternatives and patterns. After this finding code along mini-projects on youtube etc can be a fun way to deepen your experience, especially with a non-web-oriented language like C++ where the common uses may not be immediately apparent.
 
 ### 1. Getting Set Up
 
