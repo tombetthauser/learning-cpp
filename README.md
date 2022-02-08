@@ -6,19 +6,21 @@ If you are coming from primarily writing JavaScript you already know more C++ sy
 
 ---
 
-## Similarities to JavaScript
+### Similarities to JavaScript
+
+A lot of C++ syntax looks and feels very similar to JavaScript. For loops, while loops, if statements, function delaration and invocation will all look familiar. This is not a coincidence, historically JavaScript (first developed by Brendan Eich in December 1995) took a great deal of syntactic influence from Java (Oracle Corp. May 1995) which took influence from many languages including C++ (Bjarne Stroustrup, 1985). For broader context the syntactic similarities between JavaScript and C++ go back even further to the C language (Dennis Ritchie / Bell Labs, 1972) which was built as a follow-up to the B language (Ken Thompson and Dennis Ritchie / Bell Labs, 1969) which took influence from BCPL, Basic Combined Programming Language (Martin Richards / University of Cambridge, 1967). BCPL is essentially where the JavaScript syntactic similarities end as it is commonly recognised to be the oldest programming language to use curly braces to denote code blocks. Prior to this keyboards did not even have curly brackets. 
 
 --- 
 
-## Compiled Language
+### Compiled Language
 
 ---
 
-## Typed Language
+### Typed Language
 
 ---
 
-## Career Security
+### Career Security
 
 ---
 
